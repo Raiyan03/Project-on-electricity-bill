@@ -429,7 +429,7 @@ void maharashtra()
     else if (units > 500)  
   
     total_bill = units * 5.75;  
-    purple();
+    yellow();
     for (i = 0; i < 70; i++)
         printf("_");
     printf("\n\n\t\tMAHARASHTRA ELECTRTICITY BOARD DEPPARTMENT\n\n");
